@@ -1,0 +1,20 @@
+2026-03-25 08:10:12 INFO  Application started successfully
+2026-03-25 08:10:15 INFO  Connecting to database
+2026-03-25 08:10:17 INFO  Database connection established
+2026-03-25 08:11:02 WARN  Slow query detected (Query took 3200ms)
+2026-03-25 08:11:45 INFO  User login attempt: username=precious
+2026-03-25 08:11:47 INFO  User login successful: username=precious
+2026-03-25 08:12:30 ERROR Failed to load user profile (userId=104)
+2026-03-25 08:12:35 INFO  Retrying request to user service
+2026-03-25 08:12:40 INFO  User profile loaded successfully
+2026-03-25 08:13:10 WARN  Disk usage above 80%
+2026-03-25 08:13:45 INFO  File upload started: report.pdf
+2026-03-25 08:13:47 INFO  File upload completed: report.pdf
+2026-03-25 08:14:12 ERROR Payment processing failed (transactionId=TXN8821)
+2026-03-25 08:14:15 INFO  Sending alert notification to admin
+2026-03-25 08:14:30 INFO  Scheduled cleanup task executed
+2026-03-25 08:15:02 WARN  API response time exceeded threshold
+2026-03-25 08:15:10 INFO  New user registered: username=john_doe
+2026-03-25 08:15:20 INFO  Email verification sent to john_doe
+2026-03-25 08:15:45 ERROR Email service timeout
+2026-03-25 08:16:10 INFO  System health check completed
